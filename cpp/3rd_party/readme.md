@@ -1,0 +1,1 @@
+git subtree add --prefix=cpp/3rd_party/rapidjson https://github.com/NGLHarry/BackTrader.git
